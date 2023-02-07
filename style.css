@@ -1,0 +1,358 @@
+/*nav-bar*/
+.bi {
+   width: 2rem !important;
+}
+
+.navbar{
+   background: rgba(14, 29, 52, 0.9); 
+   padding: 15px 0px; 
+   box-shadow: rgb(14 29 52 / 10%) 0px 2px 20px;
+
+}
+.get {
+   
+   
+   background-color: blue !important;
+   border-radius: 5px;
+}
+
+/*inputgroup*/
+
+.dropdown:hover .dropdown-menu {
+   display: block;
+   margin-top: 0;
+   transition: 2s;
+}
+
+.dropdown-menu {
+   min-width: 12rem !important;
+}
+
+.text-dark:hover {
+   color: blue !important;
+}
+
+#sub-dropdown-menu {
+   display: none;
+   position: absolute;
+   margin-left: -186px;
+   margin-top: -26px;
+}
+
+#sub-dropdown:hover #sub-dropdown-menu {
+   display: block;
+   transition: 3s;
+}
+
+/*banner*/
+#banner {
+   margin-top: -4.6rem !important;
+   padding: 50px 0px;
+   width: auto;
+   min-height: 100vh;
+   color: rgba(255, 255, 255, 0.8);
+   background-size: cover;
+   background-color: #0e1d34;
+   background-image: url(./assets/images/hero-bg.png);
+}
+
+.banner-heading {
+   font-weight: 650 !important;
+   font-size: 50px;
+   color: white;
+}
+
+.line {
+   border: 2px solid rgba(0, 0, 255, 0.918);
+   width: 1.5rem;
+}
+/*container-1*/
+.chart{
+   color: #293e8a !important;
+}
+.truck{
+   color: #293e8a !important;
+}
+.box{
+   color: #293e8a !important;
+}
+.chart:hover{
+   color: #0d41fa !important;
+}
+.truck:hover{
+   color: #0d41fa !important;
+}
+.box:hover{
+   color: #0d41fa !important;
+}
+.text{
+   color: #0e1d34;
+}
+.text:hover{
+   color: #0d41fa;
+}
+.arrow{
+   color: #0e1d34;
+}
+
+/*container-2*/
+.container-2 h2{
+   color: #001f8d !important;
+    font-weight: 700 !important;
+}
+.container-2 h5{
+color: #19335c !important;
+} 
+.exit{
+   font-size: 48px !important;
+   color: #001f8d;
+}
+.container-1{
+   margin-top: 5rem !important;
+}
+.container-2{
+   margin-top: 5rem;
+}
+/*container-3*/
+.container-3 h2{
+   font-size: 32px;
+   font-weight: 700;
+}   
+.container-3 span{
+   position: absolute;
+    color: rgba(14, 29, 52, 0.06);
+    left: 0;
+    right: 0;
+    font-weight: 700;
+    font-size: 56px;
+    text-transform: uppercase;
+    line-height: 0.6;
+}
+/*container-9*/
+.container-9 h2{
+   font-size: 32px;
+   font-weight: 700;
+}
+.container-9 span{
+   position: absolute !important;
+    color: rgba(14, 29, 52, 0.06);
+    left: 0;
+    right: 0;
+    font-weight: 700;
+    font-size: 56px;
+    text-transform: uppercase;
+    line-height: 0.6;
+}
+.container-3{
+   margin-top: 5rem;
+}
+.margin-5{
+   margin-top: 5rem;
+}
+.margin-6{
+   margin-top: 5rem !important;
+}
+.margin-7{
+   margin-top: 5rem !important;
+}
+.margin-8{
+   margin-top: 5rem !important;
+}
+/*container-6,7,8,9*/
+.order {
+   color: #293e8a !important;
+}
+
+/*container-4 (card)*/
+.card .overflow-img:hover {
+   transform: scale(1.2);
+   transition-duration: 1s;
+   overflow: hidden !important;
+}
+
+.card-img {
+   overflow: hidden;
+}
+
+#lining {
+   text-decoration: none;
+}
+
+.our-service {
+   border: 2px solid rgba(0, 0, 255, 0.918);
+   width: 1.5rem;
+}
+
+/*container-4*/
+
+.background {
+   background: linear-gradient(rgba(14, 29, 52, 0.6), rgba(14, 29, 52, 0.8)) 0% 0% / cover, url(./assets/images/cta-bg.jpg) center center;
+   padding: 120px 0px;
+   background-size: cover;
+}
+
+/*container-2*/
+/*container-3*/
+#bottom {
+   border: 1.5px solid blue;
+   width: 3rem;
+   background-color: blue;
+}
+
+.justify-content-center {
+   color: #293e8a;
+}
+
+.card h4 {
+   font-size: 48px;
+   font-weight: 400;
+   font-family: var(--font-primary);
+   margin-bottom: 25px;
+}
+
+
+#bottom-2 {
+   border: 1.5px solid blue;
+   width: 3rem;
+   background: blue;
+}
+
+/*container-10*/
+.bannerwidth {
+   background: linear-gradient(rgba(14, 29, 52, 0.6), rgba(14, 29, 52, 0.8)) 0% 0% / cover, url(./assets/images/testimonials-bg.jpg) center center;
+   padding: 120px 0px;
+   background-size: cover;
+}
+
+.img-1 {
+   width: 100px;
+   border-radius: 50%;
+   border: 6px solid rgba(255, 255, 255, 0.15);
+   margin: 0 auto;
+   vertical-align: middle;
+}
+
+#made button {
+   border-radius: 100%;
+   height: 1rem !important;
+   width: 1rem !important;
+   background-color: rgba(255, 255, 255, 0.4);
+   opacity: 0.5;
+}
+
+/*container-11*/
+#section-header {
+   border: 1.4px solid blue;
+   background-color: blue;
+   width: 3rem;
+}
+
+.pills {
+   width: auto;
+   height: auto;
+   padding: 50px 0px;
+   background-color: #0e1d34;
+}
+
+/*container-12*/
+.shrink {
+   gap: 2rem !important;
+}
+.shrink a{
+   width: 42px !important;
+   text-align: center;
+   border-color: grey !important;
+}
+.tweeter i:hover{
+   color: white  !important;
+}
+.facebook i:hover{
+   color: white  !important;
+}
+.linkedin i:hover{
+   color: white  !important;
+}
+.instagram i:hover{
+   color: white  !important;
+}
+.shrink a:hover{
+   border-color: white !important;
+}
+/* about*/
+.about-banner {
+   margin-top: -4.6rem !important;
+   background: linear-gradient(rgba(14, 29, 52, 0.6), rgba(14, 29, 52, 0.8)) 0% 0% / cover, url(./assets/images/page-header.jpg) center center;
+   background-size: cover;
+   height: 65vh;
+
+}
+#about{
+   margin-top: 10rem !important;
+}
+#about h1{
+   font-size: 56px;
+   font-weight: 500;
+}
+
+.breadcrumb-link {
+   text-decoration: none;
+}
+
+.breadcrumb-item a:hover {
+   border-bottom: 2px solid blue;
+}
+
+.border-2 {
+   border-bottom: 1px solid blue;
+   width: 2rem;
+}
+
+.border-3 {
+   border-bottom: 1px solid blue;
+   width: 3rem;
+}
+
+/*pricing*/
+.border-4 {
+   border-bottom: 1px solid blue;
+   width: 3rem;
+}
+#pricing h1{
+   font-size: 56px;
+   font-weight: 500;
+}
+#pricing{
+   margin-top: 10rem !important;
+
+}
+/*got a quote*/
+#getaquote{
+   margin-top: 10rem !important;
+
+}
+#getaquote h1{
+   font-size: 56px;
+   font-weight: 500;
+}
+/*accrodion*/
+.accrodion-header a:hover{
+   background-color: navajowhite;
+}
+/*service*/
+#service{
+   margin-top: 10rem !important;
+
+}
+#service h1{
+   font-size: 56px;
+   font-weight: 500;
+}
+/*contact*/
+#contact{
+   margin-top: 10rem !important;
+
+}
+#contact h1{
+   font-size: 56px;
+   font-weight: 500;
+}
